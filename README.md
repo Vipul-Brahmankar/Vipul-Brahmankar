@@ -68,11 +68,11 @@ Here are a few things I'm proud of from my time at **TCS** and beyond:
 
 ---
 
-## 💡 Fun Facts
+### 💡 Fun Facts
 - I'm a **problem-solving enthusiast** and regularly solve challenges on Leetcode.
 - My Slack statuses often feature **witty jokes** to keep the team motivated.
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 - **LinkedIn:** [Vipul Brahmankar](https://www.linkedin.com/in/vipul-brahmankar/)
 - **Email:** vipul.brahmankar@gmail.com
 - **GitHub:** [Vipul Brahmankar](https://github.com/Vipul-Brahmankar)
