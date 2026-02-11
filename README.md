@@ -68,11 +68,6 @@ Here are a few things I'm proud of from my time at **TCS** and beyond:
 
 ---
 
-
-## 🎯 Goals
-- **Professional:** Enhance my expertise in **cloud-native architectures** and **distributed systems**.
-- **Personal:** Stay committed to **intermittent fasting**, maintain my fitness, and embrace my passion for **running** and **gym workouts**.
-
 ## 💡 Fun Facts
 - I'm a **problem-solving enthusiast** and regularly solve challenges on Leetcode.
 - My Slack statuses often feature **witty jokes** to keep the team motivated.
@@ -84,12 +79,9 @@ Here are a few things I'm proud of from my time at **TCS** and beyond:
 
 ---
 
-
 <div align="center">
-  
   <img src="https://media.giphy.com/media/Ll2fajzk9DgaY/giphy.gif" alt="Vipul Brahmankar Banner"></br>
   <i>Thanks for stopping by! Let's build something amazing together 🚀.</i> 
-  
 </div>
 
 ---
